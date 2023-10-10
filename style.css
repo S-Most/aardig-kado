@@ -1,0 +1,26 @@
+html {
+    font-family: 'Cookie', serif;
+}
+
+.overlay {
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    background-image: url('image.png');
+    background-repeat: repeat;
+    background-size: contain;
+    opacity: .3
+}
+
+main {
+    width: 20rem;
+    margin-inline: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+section {
+    width: 100%;
+    font-size: 1.5em;
+}
+
