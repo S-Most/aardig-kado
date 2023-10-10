@@ -42,9 +42,9 @@ function typeLine(line, callback) {
         } else {
             poemTextElement.innerHTML += "<br/>";
             clearInterval(typingInterval);
-            setTimeout(callback, 1);
+            setTimeout(callback, 10);
         }
-    }, 1);
+    }, 100);
 }
 
 function populatePoemText() {
