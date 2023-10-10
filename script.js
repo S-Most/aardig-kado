@@ -3,7 +3,7 @@ const poemTextElement = document.querySelector('.poem-text');
 const poemLines = [
     "In de tuin van vreugde,",
     "Groeit blijdschap snel in aarde",
-    "Een cadeau vol met grondstoffen,",
+    "Een cadeau vol grondstoffen,",
     "Voor toegevoegde waarde.",
     "",
     "Een schop in de juiste richting,",
