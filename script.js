@@ -23,7 +23,7 @@ const poemLines = [
     "",
     "Dus het kado dan maar wat later",
     "Hierbij dan slechts een wijs.",
-    "RAndom TEKST NOG IN TE VULLEN",
+    "Straks zonneschijn en water,",
     "Nu eerst dan jullie huwelijksreis",
     "",
     "Graaf in de humor,",
