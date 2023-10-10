@@ -44,7 +44,7 @@ function typeLine(line, callback) {
             clearInterval(typingInterval);
             setTimeout(callback, 10);
         }
-    }, 100);
+    }, 30);
 }
 
 function populatePoemText() {
