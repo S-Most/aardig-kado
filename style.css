@@ -13,7 +13,7 @@ html {
 }
 
 main {
-    width: 20rem;
+    width: 22rem;
     margin-inline: auto;
     display: flex;
     flex-direction: column;
